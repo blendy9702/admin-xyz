@@ -3,6 +3,7 @@
 ## 사용된 스킬
 
 - Next.js
+- Jotai
 - Tailwind CSS
 - TypeScript
 - Shadcn UI
